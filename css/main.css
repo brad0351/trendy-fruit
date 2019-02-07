@@ -12,8 +12,7 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 
-  font-family: 'Open Sans', sans-serif;
-
+  font-family: "Open Sans", sans-serif;
 }
 
 *, *::before, *::after {
@@ -23,6 +22,7 @@ html {
 body {
   margin: 0;
 }
+
 .watermelon {
   background-color: #e97065;
 }
@@ -36,11 +36,11 @@ body {
 }
 
 .starfruit h2 {
-  font-family: 'Gravitas One', cursive;
+  font-family: "Gravitas One", cursive;
 }
 
 .watermelon h2 {
-  font-family: 'Rammetto One', cursive;
+  font-family: "Rammetto One", cursive;
 }
 
 .persimmon h2 {
